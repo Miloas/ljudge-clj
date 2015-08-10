@@ -1,14 +1,11 @@
 # lrun
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to run program in limit resources, cpu mem or io.
 
 ## Usage
 
-FIXME
+Under construction.
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+MIT.
