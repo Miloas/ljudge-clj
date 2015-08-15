@@ -1,6 +1,6 @@
 # lrun
 
-A Clojure library designed to run program in limit resources, cpu mem or io.
+A Clojure library bind lrun.
 
 ## Usage
 
